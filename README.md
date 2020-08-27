@@ -1,5 +1,5 @@
 ![Screenshot](https://user-images.githubusercontent.com/6918020/91457416-f372ff00-e8a1-11ea-8af1-4d1622482ecb.png)
-### About
+### Current Update 😀
 
 - 🔭 I’m currently working on => Frontend development
 - 🌱 I’m currently learning => Sass, React and Typescript
