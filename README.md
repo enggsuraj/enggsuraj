@@ -1,4 +1,4 @@
-![PicsArt_08-27-07 56 50](https://user-images.githubusercontent.com/6918020/91456180-97f44180-e8a0-11ea-8104-72f4bc5434a9.png)
+![Screenshot](https://user-images.githubusercontent.com/6918020/91457416-f372ff00-e8a1-11ea-8af1-4d1622482ecb.png)
 ### About
 
 - 🔭 I’m currently working on => Frontend development
