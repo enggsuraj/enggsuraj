@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+### About
 
 - 🔭 I’m currently working on => Frontend development
 - 🌱 I’m currently learning => Sass, React and Typescript
