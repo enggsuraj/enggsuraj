@@ -1,4 +1,4 @@
-![PicsArt_08-27-07 56 50](https://user-images.githubusercontent.com/6918020/91456180-97f44180-e8a0-11ea-8104-72f4bc5434a9.png){:height="50%" width="50%"}
+![PicsArt_08-27-07 56 50](https://user-images.githubusercontent.com/6918020/91456180-97f44180-e8a0-11ea-8104-72f4bc5434a9.png)
 ### About
 
 - 🔭 I’m currently working on => Frontend development
