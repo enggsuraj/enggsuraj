@@ -1,4 +1,4 @@
-![Screenshot](https://user-images.githubusercontent.com/6918020/91457416-f372ff00-e8a1-11ea-8af1-4d1622482ecb.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/6918020/91458545-439e9100-e8a3-11ea-9d5f-0e2b9f21e14b.png)
 ### Current Update 😀
 
 - 🔭 I’m currently working on => Frontend development
