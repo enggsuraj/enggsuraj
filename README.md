@@ -1,6 +1,6 @@
 ![Screenshot](https://user-images.githubusercontent.com/6918020/91458822-924c2b00-e8a3-11ea-9bcf-f85e50449b62.png)
 
-![undraw_dev_productivity_umsq](https://user-images.githubusercontent.com/6918020/98012889-9fdfdd00-1e1f-11eb-8453-d74dfcb7a61e.png =100x20)
+![undraw_dev_productivity_umsq](https://user-images.githubusercontent.com/6918020/98012889-9fdfdd00-1e1f-11eb-8453-d74dfcb7a61e.png){:height="36px" width="36px"}.
 ![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
 
 ### 👨‍💻 Gist about me 
