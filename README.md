@@ -1,8 +1,8 @@
 ![Screenshot](https://user-images.githubusercontent.com/6918020/91458822-924c2b00-e8a3-11ea-9bcf-f85e50449b62.png)
 
-https://komarev.com/ghpvc/?username=enggsuraj 
+![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-### Gist about me <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+### Gist about me 
 
 - 🔭 I’m currently working on => Frontend development
 - 🌱 I’m currently learning => Sass, React and Typescript
