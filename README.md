@@ -2,7 +2,7 @@
 
 ![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
 
-### Gist about me 
+### 👨‍💻 Gist about me 
 
 - 🔭 I’m currently working on => Frontend development
 - 🌱 I’m currently learning => Sass, React and Typescript
