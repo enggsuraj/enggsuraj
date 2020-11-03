@@ -4,7 +4,8 @@
 
 ### 👨‍💻 Gist about me 
 
-- 🔭 I’m currently working on => Frontend development
+- 🔭 I’m currently working on => Frontend development ![undraw_dev_productivity_umsq](https://user-images.githubusercontent.com/6918020/98012889-9fdfdd00-1e1f-11eb-8453-d74dfcb7a61e.png)
+
 - 🌱 I’m currently learning => Sass, React and Typescript
 - 👯 I’m looking to collaborate on => Web development
 - 🤔 I’m looking for help with => AWS, MERN Stack
