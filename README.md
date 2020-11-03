@@ -1,6 +1,6 @@
 ![Screenshot](https://user-images.githubusercontent.com/6918020/91458822-924c2b00-e8a3-11ea-9bcf-f85e50449b62.png)
 
-![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 ### Gist about me 
 
