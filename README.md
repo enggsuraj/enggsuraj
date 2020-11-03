@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.com/enggsuraj/enggsuraj.svg)](http://hits.dwyl.com/enggsuraj/enggsuraj)
 
-### Current Update 😀
+### Gist about me 😀
 
 - 🔭 I’m currently working on => Frontend development
 - 🌱 I’m currently learning => Sass, React and Typescript
