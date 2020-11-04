@@ -1,9 +1,15 @@
+## Hey 👋, I'm [Suraj Gehlot!](https://github.com/enggsuraj/)
+
 ![Screenshot](https://user-images.githubusercontent.com/6918020/91458822-924c2b00-e8a3-11ea-9bcf-f85e50449b62.png)
 
 <img src="https://user-images.githubusercontent.com/6918020/98086868-5934c600-1ea5-11eb-98dc-d350c3c536ed.gif" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="320" height="300">
 
 ![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-g-65252993/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://link-blogtheorem.netlify.app/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/blogtheorem)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/blogtheorem/)
 
 ### 👨‍💻 Gist about me 
 
