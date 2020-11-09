@@ -1,7 +1,7 @@
 ## Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
 
 <img src="https://user-images.githubusercontent.com/6918020/98538540-ed8d9700-22b0-11eb-9d1a-be875043ea66.gif" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="370" height="400">
+     alt="Size Limit logo by Anton Lovchikov" width="370" height="350">
      
 ![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-g-65252993/)
