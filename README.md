@@ -1,9 +1,8 @@
 ## Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
 
-<img src="https://user-images.githubusercontent.com/6918020/98086868-5934c600-1ea5-11eb-98dc-d350c3c536ed.gif" align="right"
+<img src="https://user-images.githubusercontent.com/6918020/98537052-b6b68180-22ae-11eb-9662-af7ef63a7d76.gif" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="320" height="300">
      
-
 ![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-g-65252993/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://link-blogtheorem.netlify.app/)
