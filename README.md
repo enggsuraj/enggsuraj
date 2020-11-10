@@ -2,10 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/6918020/98542288-ac988100-22b6-11eb-9982-84d423124a01.gif" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="250" height="370">
-     
-     
-<!--img src="https://user-images.githubusercontent.com/6918020/98540610-398e0b00-22b4-11eb-92f1-3ca54e58894c.png" align="right" width="250" height="370"-->
-     
+         
 ![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-g-65252993/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://link-blogtheorem.netlify.app/)
@@ -13,6 +10,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/blogtheorem/)
 [![Codepen Badge](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/enggsuraj) 
 [![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/blogtheorem99)
+
+<!--img src="https://user-images.githubusercontent.com/6918020/98540610-398e0b00-22b4-11eb-92f1-3ca54e58894c.png" align="right" width="250" height="370"-->
 
 ### 👨‍💻 Gist about me 
 
