@@ -1,9 +1,9 @@
 ## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="70" /> Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25"/>
 
-<!--img src="https://user-images.githubusercontent.com/6918020/98540610-398e0b00-22b4-11eb-92f1-3ca54e58894c.png" align="right" width="250" height="370"-->
+<img src="https://user-images.githubusercontent.com/6918020/98829990-dd67ea00-245f-11eb-8051-3d6a5b12e6ea.png" align="right" width="350" height="350">
 
-<img src="https://user-images.githubusercontent.com/6918020/98542288-ac988100-22b6-11eb-9982-84d423124a01.gif" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="250" height="370">
+<!--img src="https://user-images.githubusercontent.com/6918020/98542288-ac988100-22b6-11eb-9982-84d423124a01.gif" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="250" height="370"-->
          
 ![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-g-65252993/)
