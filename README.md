@@ -13,7 +13,6 @@
 [![Codepen Badge](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/enggsuraj) 
 [![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/blogtheorem99)
 
-
 ### 👨‍💻 Gist about me 
 
 - 🌱 I’m currently learning => Sass, React and Typescript
@@ -22,7 +21,7 @@
 - 💬 Ask me about => Web development
 - ⚡ Fun fact: => I'm a vipassana meditator.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 😄 Check out my #100DaysofCode Journey(Click on this image ->)
+- 😄 Check out my #100DaysofCode Journey (Click on this image ->)
 
 ### Languages and Tools:
 
