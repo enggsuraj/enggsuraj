@@ -1,6 +1,6 @@
 ## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="70" /> Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25"/>
 
-<img src="https://user-images.githubusercontent.com/6918020/98960174-1d939f00-252a-11eb-8cae-7c9ee54f8ef5.jpg" align="right" width="400" height="350">
+<a href="https://www.instagram.com/p/CEjvg0YDJQe/"><img src="https://user-images.githubusercontent.com/6918020/98960174-1d939f00-252a-11eb-8cae-7c9ee54f8ef5.jpg" align="right" width="400" height="350"></a>
 
 <!--img src="https://user-images.githubusercontent.com/6918020/98542288-ac988100-22b6-11eb-9982-84d423124a01.gif" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="250" height="370"-->
@@ -22,6 +22,7 @@
 - 💬 Ask me about => Web development
 - ⚡ Fun fact: => I'm a vipassana meditator.
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 😄 Check out my #100DaysofCode Journey(Click on this image ->)
 
 ### Languages and Tools:
 
