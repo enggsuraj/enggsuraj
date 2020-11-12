@@ -20,7 +20,7 @@
 - 👯 I’m looking to collaborate on => Web development
 - 🤔 I’m looking for help with => AWS, MERN Stack
 - 💬 Ask me about => Web development
-- ⚡ Fun fact: => I'm an active vipassana meditator.
+- ⚡ Fun fact: => I'm a vipassana meditator.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
