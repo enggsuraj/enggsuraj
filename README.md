@@ -1,10 +1,7 @@
 ## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="70" /> Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25"/>
 
 <a href="https://www.instagram.com/p/CEjvg0YDJQe/"><img src="https://user-images.githubusercontent.com/6918020/98960174-1d939f00-252a-11eb-8cae-7c9ee54f8ef5.jpg" align="right" width="380" height="350"></a> 
-
-<!--img src="https://user-images.githubusercontent.com/6918020/98542288-ac988100-22b6-11eb-9982-84d423124a01.gif" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="250" height="370"-->
-         
+   
 ![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-g-65252993/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://link-blogtheorem.netlify.app/)
