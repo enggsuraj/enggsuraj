@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Gist about me 
 
-- 🌱 I’m currently learning => React, Nextjs and Typescript
+- 🌱 I’m currently learning => GraphQL, Nextjs and Typescript
 - 👯 I’m looking to collaborate on => Web development
 - 🤔 I’m looking for help with => MERN Stack
 - 💬 Ask me about => Frontend Web development
