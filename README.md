@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on => Web development
 - 🤔 I’m looking for help with => MERN Stack
 - 💬 Ask me about => Frontend Web development
-- ⚡ Fun fact: => I'm a vipassana meditator.
+- ⚡ Other fact: => I'm a vipassana meditator.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
