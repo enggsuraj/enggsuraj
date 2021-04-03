@@ -1,7 +1,5 @@
 ## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="70" /> Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25"/>
 
-<a href="https://www.instagram.com/p/CEjvg0YDJQe/"><img src="https://user-images.githubusercontent.com/6918020/98960174-1d939f00-252a-11eb-8cae-7c9ee54f8ef5.jpg" align="right" width="380" height="350"></a> 
-   
 ![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://blogtheorem.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/blogtheorem)
@@ -17,7 +15,6 @@
 - 💬 Ask me about => Frontend Web development
 - ⚡ Fun fact: => I'm a vipassana meditator.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 😄 Check out my #100DaysofCode Journey (Click on this image ->)
 
 ### Languages and Tools:
 
