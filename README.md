@@ -11,12 +11,13 @@
 
 ### 👨‍💻 Gist about me 
 
-- 🌱 I’m currently learning => GraphQL, Nextjs and Typescript
-- 👯 I’m looking to collaborate on => Web development
-- 🤔 I’m looking for help with => MERN Stack
-- 💬 Ask me about => Frontend Web development
+- 💻 Specialize in => React and Javascript.
+- 💡 I’m currently learning => GraphQL, Nextjs, Typescript.
+- 🔸 I’m looking to collaborate on => Web development.
+- 🤔 I’m looking for help with => MERN Stack.
+- 💬 Ask me about => Frontend Web development.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Apart from webdev: => I'm a vipassana meditator.
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
 
