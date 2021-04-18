@@ -7,9 +7,6 @@
 [![Codepen Badge](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/enggsuraj) 
 [![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/blogtheorem99)
 
-<div
-
-
 ### 👨‍💻 Gist about me 
 
 - 🌱 I’m currently learning => GraphQL, Nextjs and Typescript
@@ -18,6 +15,8 @@
 - 💬 Ask me about => Frontend Web development
 - ⚡ Apart from webdev: => I'm a vipassana meditator.
 - 🥅 2021 Goals: Contribute more to Open Source projects
+
+<img align="right" src="https://i.pinimg.com/originals/58/26/22/582622377739ce42b29d020e35335541.gif" width="300" />
 
 ### Languages and Tools:
 
