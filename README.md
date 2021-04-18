@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Gist about me 
 
-<img align="right" src="https://i.pinimg.com/originals/0e/76/a3/0e76a3bdb9a5f816879b8275dfd7238b.gif" width="350" />
+<img align="right" src="https://deltaco.iq/wp-content/uploads/2020/09/1111.gif" width="350" />
 
 - 🌱 I’m currently learning => GraphQL, Nextjs and Typescript
 - 👯 I’m looking to collaborate on => Web development
