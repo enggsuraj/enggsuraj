@@ -16,7 +16,7 @@
 - 🔸 I’m looking to collaborate on => Web development.
 - 🤔 I’m looking for help with => MERN Stack.
 - 💬 Ask me about => Frontend Web development.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute to Open Source projects.
 - ⚡ Apart from webdev: => I'm a vipassana meditator.
 
 ### Languages and Tools:
