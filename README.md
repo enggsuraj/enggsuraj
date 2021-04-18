@@ -7,7 +7,7 @@
 [![Codepen Badge](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/enggsuraj) 
 [![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/blogtheorem99)
 
-<img align="right" src="https://user-images.githubusercontent.com/6918020/115139602-63f8a700-a050-11eb-8a1d-bb518b968f7b.png" width="450" />
+<img align="right" src="https://user-images.githubusercontent.com/6918020/115139602-63f8a700-a050-11eb-8a1d-bb518b968f7b.png" width="440" />
 
 ### 👨‍💻 Gist about me 
 
