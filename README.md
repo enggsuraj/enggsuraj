@@ -9,14 +9,14 @@
 
 ### 👨‍💻 Gist about me 
 
+<img align="right" src="https://i.pinimg.com/originals/0e/76/a3/0e76a3bdb9a5f816879b8275dfd7238b.gif" width="350" />
+
 - 🌱 I’m currently learning => GraphQL, Nextjs and Typescript
 - 👯 I’m looking to collaborate on => Web development
 - 🤔 I’m looking for help with => MERN Stack
 - 💬 Ask me about => Frontend Web development
 - ⚡ Apart from webdev: => I'm a vipassana meditator.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-
-<img align="right" src="https://i.pinimg.com/originals/58/26/22/582622377739ce42b29d020e35335541.gif" width="300" />
 
 ### Languages and Tools:
 
