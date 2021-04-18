@@ -7,13 +7,16 @@
 [![Codepen Badge](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/enggsuraj) 
 [![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/blogtheorem99)
 
+<div
+
+
 ### 👨‍💻 Gist about me 
 
 - 🌱 I’m currently learning => GraphQL, Nextjs and Typescript
 - 👯 I’m looking to collaborate on => Web development
 - 🤔 I’m looking for help with => MERN Stack
 - 💬 Ask me about => Frontend Web development
-- ⚡ Other fact: => I'm a vipassana meditator.
+- ⚡ Apart from webdev: => I'm a vipassana meditator.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
