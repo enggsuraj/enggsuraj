@@ -7,7 +7,7 @@
 [![Codepen Badge](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/enggsuraj) 
 [![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/blogtheorem99)
 
-<img align="right" src="https://deltaco.iq/wp-content/uploads/2020/09/1111.gif" width="300" />
+<img align="right" src="https://i.pinimg.com/originals/6a/43/b8/6a43b8fd417f7c1409743e754c240189.gif" width="350" />
 
 ### 👨‍💻 Gist about me 
 
