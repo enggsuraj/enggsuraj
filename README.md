@@ -7,9 +7,9 @@
 [![Codepen Badge](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/enggsuraj) 
 [![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/blogtheorem99)
 
-### 👨‍💻 Gist about me 
+<img align="right" src="https://deltaco.iq/wp-content/uploads/2020/09/1111.gif" width="300" />
 
-<img align="right" src="https://deltaco.iq/wp-content/uploads/2020/09/1111.gif" width="350" />
+### 👨‍💻 Gist about me 
 
 - 🌱 I’m currently learning => GraphQL, Nextjs and Typescript
 - 👯 I’m looking to collaborate on => Web development
