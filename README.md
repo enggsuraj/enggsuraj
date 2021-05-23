@@ -7,9 +7,7 @@
 [![Codepen Badge](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/enggsuraj) 
 [![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/blogtheorem99)
 
-Hi, Myself Suraj, a self taught freelance frontend developer from India, I design and build quality responsive websites, clean user interfaces and rich interactive web apps.  I'm passioante about spending time with javascript and making a concept, idea live to the browser. 
-
-
+Hi, Myself Suraj, a self taught freelance frontend developer, I design and build quality responsive websites, clean user interfaces and rich interactive web apps.  I'm passioante on making a concept, idea live to the browser. 
 
 <img align="right" src="https://user-images.githubusercontent.com/6918020/115139602-63f8a700-a050-11eb-8a1d-bb518b968f7b.png" width="440" />
 
