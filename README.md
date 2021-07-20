@@ -1,4 +1,9 @@
-## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="70" /> Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25"/>
+## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="50" /> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25"/>
+
+```
+Myself Suraj, a self taught frontend developer.
+I design and build quality responsive websites, clean user interfaces and rich interactive web apps.
+```
 
 <img src="https://user-images.githubusercontent.com/6918020/126360214-15cd74c6-091e-4aab-849f-6eddf63f3c65.png" width="100%"/>
 
@@ -8,11 +13,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/blogtheorem/)
 [![Codepen Badge](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/enggsuraj) 
 [![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/blogtheorem99)
-
-```
-Hi, Myself Suraj, a self taught freelance frontend developer.
-I design and build quality responsive websites, clean user interfaces and rich interactive web apps.
-```
 
 <img align="right" src="https://user-images.githubusercontent.com/6918020/126283454-ce7278b7-d703-4ae0-93f4-ebb7305c983e.gif" width="440" />
 
@@ -25,7 +25,7 @@ I design and build quality responsive websites, clean user interfaces and rich i
 - 💬 Ask me about => Frontend Web development.
 - 🎯 2021 Goals: Contribute to Open Source projects.
 
-### Languages and Tools:
+###  🛠 Languages and Tools:
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40px"></span>&nbsp;
@@ -36,4 +36,4 @@ I design and build quality responsive websites, clean user interfaces and rich i
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40px"></span>&nbsp;
 
-💻 Follow for Frontend and Web development projects. 
+ 💻 Follow for Frontend and Web development projects.
