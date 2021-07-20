@@ -34,4 +34,6 @@ I design and build quality responsive websites, clean user interfaces and rich i
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40px"></span>&nbsp;
 
+✅ Follow for Frontend and Web development projects. 
+
 
