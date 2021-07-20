@@ -12,7 +12,7 @@ Hi, Myself Suraj, a self taught freelance frontend developer.
 I design and build quality responsive websites, clean user interfaces and rich interactive web apps.
 ```
 
-<img align="right" src="https://user-images.githubusercontent.com/6918020/126283454-ce7278b7-d703-4ae0-93f4-ebb7305c983e.gif" width="450" />
+<img align="right" src="https://user-images.githubusercontent.com/6918020/126283454-ce7278b7-d703-4ae0-93f4-ebb7305c983e.gif" width="440" />
 
 ### 👨‍💻 About me 
 
