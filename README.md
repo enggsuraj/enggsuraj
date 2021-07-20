@@ -1,6 +1,6 @@
 ## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="70" /> Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25"/>
 
-<img src="https://user-images.githubusercontent.com/6918020/126359900-82032336-a294-45de-96fd-05792e8c2a28.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/6918020/126360214-15cd74c6-091e-4aab-849f-6eddf63f3c65.png" width="100%"/>
 
 ![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://blogtheorem.com/)
