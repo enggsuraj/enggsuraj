@@ -16,10 +16,10 @@ I design and build quality responsive websites, clean user interfaces and rich i
 
 ### 👨‍💻 About me 
 
-- 💻 Specialize in => React and Javascript.
+- ⚛️ Specialize in => React and Javascript.
 - 💡 I’m currently learning => GraphQL, Nextjs, Typescript.
 - ✅ I’m looking to collaborate on => Web development.
-- 🤔 I’m looking for help with => MERN Stack.
+- 📟 I’m looking for help with => MERN Stack.
 - 💬 Ask me about => Frontend Web development.
 - 🎯 2021 Goals: Contribute to Open Source projects.
 
@@ -34,6 +34,4 @@ I design and build quality responsive websites, clean user interfaces and rich i
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40px"></span>&nbsp;
 
-✅ Follow for Frontend and Web development projects. 
-
-
+💻 Follow for Frontend and Web development projects. 
