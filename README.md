@@ -1,11 +1,13 @@
 ## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="50" /> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25"/>
 
 ```
-Myself Suraj, a self taught frontend developer.
+I'm Suraj, a self taught frontend developer.
 I design and build quality responsive websites, clean user interfaces and rich interactive web apps.
 ```
 
-<img src="https://user-images.githubusercontent.com/6918020/126360214-15cd74c6-091e-4aab-849f-6eddf63f3c65.png" width="100%"/>
+<!-- <img src="https://user-images.githubusercontent.com/6918020/126360214-15cd74c6-091e-4aab-849f-6eddf63f3c65.png" width="100%"/> -->
+
+![newBanner-Gif](https://user-images.githubusercontent.com/6918020/126431123-00baa7e4-5d04-413f-a7c9-543ff70563ad.gif)
 
 ![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://blogtheorem.com/)
