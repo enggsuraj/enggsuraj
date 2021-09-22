@@ -7,7 +7,7 @@ I design and build quality responsive websites, clean user interfaces and rich i
 
 <!-- <img src="https://user-images.githubusercontent.com/6918020/126360214-15cd74c6-091e-4aab-849f-6eddf63f3c65.png" width="100%"/> -->
 
-![newBanner-Gif](https://user-images.githubusercontent.com/6918020/126431123-00baa7e4-5d04-413f-a7c9-543ff70563ad.gif)
+![newBanner-Gif](https://user-images.githubusercontent.com/6918020/126431123-00baa7e4-5d04-413f-a7c9-543ff70563ad.gif) 
 
 ![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://blogtheorem.com/)
