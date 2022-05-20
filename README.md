@@ -25,7 +25,7 @@ I design and build quality responsive websites, clean user interfaces and rich i
 - ✅ I’m looking to collaborate on => Web development.
 - 📟 I’m looking for help with => MERN Stack.
 - 💬 Ask me about => Frontend Web development.
-- 🎯 2021 Goals: Contribute to Open Source projects.
+- 🎯 2022 Goals: Get Frontend Dev skills.
 
 ###  🛠 Languages and Tools:
 
